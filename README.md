@@ -4,7 +4,10 @@ A global AI agent skill for generating, managing, and maintaining standard `CHAN
 
 ## Overview
 
-This skill allows an AI assistant to automatically detect updates, feature additions, or bug fixes, and correctly categorize them into a standardized `CHANGELOG.md` in the project root. It follows the principles of:
+**What pain points does it solve?**
+Have you ever struggled to remember what changes you or your AI agent made today? Tired of scrolling through chat logs to summarize your work? With `changelog-generator`, you no longer need to manually write down what was done. The agent automatically acts as your scribe, aggregating your daily updates and formatting them perfectly into your project's `CHANGELOG.md`.
+
+This skill allows your AI assistant to automatically detect updates, feature additions, or bug fixes, and categorize them into a standardized format. It strictly follows:
 1. [Keep a Changelog](https://keepachangelog.com/)
 2. [Semantic Versioning](https://semver.org/)
 
