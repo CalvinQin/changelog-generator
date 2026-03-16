@@ -16,6 +16,7 @@ This skill allows your AI assistant to automatically detect updates, feature add
 - **Auto-Initialization**: Creates a standardized `CHANGELOG.md` if one doesn't exist.
 - **Smart Categorization**: Groups changes into `Added`, `Changed`, `Deprecated`, `Removed`, `Fixed`, and `Security`.
 - **Version Management**: Uses Semantic Versioning to determine major, minor, or patch numbers dynamically.
+- **Auto Version Sync**: Synchronizes the updated version number across all `package.json` files in the project (root and sub-apps).
 - **Proactive Logging**: Keeps track of prior context and automatically drafts the changelog update.
 
 ## Installation
